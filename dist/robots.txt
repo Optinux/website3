@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://optinux.me/sitemap-index.xml
